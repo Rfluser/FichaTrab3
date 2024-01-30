@@ -20,7 +20,8 @@ public class M17B_projetoColab_FichaTrab3 {
         
         
         
-        // O que deve ser acrescentado ao código:
+        // O q+
+        //ue deve ser acrescentado ao código:
         // - na prática, repetir o código das linhas 18 e 19, mas instanciando
         //   um novo elemento do array, sem ser os de índices 0 e 19;
         // - no primeiro atributo, relativo ao nome, deve ser colocado o
